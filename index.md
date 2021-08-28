@@ -9,7 +9,6 @@ I love Playing Chess and Love to Travel.
 ### CAREER OBJECTIVE
 
 To obtain a position that will enable me to use my strong organizational skills, educational background, and ability to work well with people & a positive contribution to the 
-
 organization. Work in research and development for the betterment of society and the country.
 
 
