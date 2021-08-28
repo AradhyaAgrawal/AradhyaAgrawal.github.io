@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Hello Everyone
 
-You can use the [editor on GitHub](https://github.com/AradhyaAgrawal/AradhyaAgrawal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Aradhya Agrawal a graduate student in Big Data Science at San Diego State University, San Diego, California.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have completed my Bachelor of Technology in Computer Science from Medicaps University, Indore, India.
 
-### Markdown
+I love Playing Chess and Love to Travel.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  PROJECTS
 
-```markdown
-Syntax highlighted code block
+**Project Area**: Opinion Analysis of electric vehicle using Machine Learning(Research Paper Published in International Research and Journals, Pune, India) 
+**Tools Used**: Python3 and Google Colab 
+**Monetary Benefit**: The basic idea behind this research was to consider a view of people about electric vehicle. The major output was time required to charge the electric vehicle must be reduced. 
 
-# Header 1
-## Header 2
-### Header 3
+**Project Area**: Face Mask Detection
+**Tools Used**: Python
+ **Monetary Benefit**: This was software used to check whether the person entering the premises of the company was wearing a mask or not and if not he was not allowed to enter premises. 
 
-- Bulleted
-- List
+**Project Area**: COVID-19 Patient Status Analysis
+**Tools Used**: Python3 and Google Colab 
+**Monetary Benefit**: Predicting the status of the covid-19 patient using his features like age, gender, time of admission, and many more. Status like whether he is recovered, dead or still affected.
 
-1. Numbered
-2. List
+**Project Area**: Appointment portal
+**Tools Used**: Python3, Jupyter Notebook, and Tkinter
+**Monetary Benefit**: Appointment is requested by the appointee and then the manager’s assistant assigns the appointee a scheduled appointment by mail.  
 
-**Bold** and _Italic_ and `Code` text
+**Project Area**: Face Recognition 
+**Tools Used**: Python3, Jupyter Notebook 
+**Concepts Used**: Machine Learning Algorithms, Principal component analysis, Clustering.
+**Monetary Benefit**: Recognized with 90+ accuracy  Concepts of feature reduction and dimensionality reduction was used.  It first captures 10 images of any person and with the concepts of PCA and clustering, it saves the features of that person with the help of a pickle file.  For recognition, we just need to click one photo and it will show the name. 
 
-[Link](url) and ![Image](src)
+```SCROLL UP
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AradhyaAgrawal/AradhyaAgrawal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
