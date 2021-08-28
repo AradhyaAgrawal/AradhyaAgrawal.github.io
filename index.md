@@ -6,6 +6,12 @@ I have completed my Bachelor of Technology in Computer Science from Medicaps Uni
 
 I love Playing Chess and Love to Travel.
 
+### DATASET LINK
+
+[COVID-19 Dataset Countries aggregated](https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv)
+
+I prefer this dataset because it shows COVID-19 increasing and decreasing pattern of cases in various countries. The dataset is having various countries and if compare the initial patterns of the countries we could save people from facing worst conditions. The different patterns could also give solutions before facing the after effects. The dataset also provides the information of countries which got freed from COVID-19 also.   
+
 ### CAREER OBJECTIVE
 
 To obtain a position that will enable me to use my strong organizational skills, educational background, and ability to work well with people & a positive contribution to the 
