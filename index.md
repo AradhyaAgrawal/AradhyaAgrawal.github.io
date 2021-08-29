@@ -10,7 +10,13 @@ I love Playing Chess and Love to Travel.
 
 [COVID-19 Dataset Countries aggregated](https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv)
 
-I prefer this dataset because it shows COVID-19 increasing and decreasing pattern of cases in various countries. The dataset is having various countries and if compare the initial patterns of the countries we could save people from facing worst conditions. The different patterns could also give solutions before facing the after effects. The dataset also provides the information of countries which got freed from COVID-19 also.   
+I prefer this dataset because it shows COVID-19 increasing and decreasing pattern of cases in various countries. The dataset is having various countries and if compare the initial patterns of the countries we could save people from facing worst conditions. The different patterns could also give solutions before facing the after effects. The dataset also provides the information of countries which got freed from COVID-19 also.
+
+### DATA SCIENCE BOOK LINK
+
+[Deep Learning a MIT Press Book by Ian GoodFellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+I choose this data science book because of its content. The book is divided into three parts Part 1: Applied Maths And Machine Learning Basics which will teach us applied maths and machine learning basics which include Linear Algebra, Probablity and information theory, Numerical computation and machine learning basics. So this part is just the start and covers initial knowledge required for the understanding of Deep learning. Part 2: Modern Practical Deep Networks which will provide us the knowledge basics of neural networks and deep learning starting from Deep Feedforward Networks to Convolution networks and finally applications. Basically this part is perfect blend of theoritical and practical applications of deep neural networks which will help us to gain knowledge at it's best. Part 3: Deep Learning Research is containing all new things which are advance level and are new in the field of deep neural networks. The main reason behind choosing this book that the book provided knowledge from the basics to the advanced and new concepts. I have sufficient level of knowledge of basic concepts so this book will help me to gain more knowledge at advanced levels.   
 
 ### CAREER OBJECTIVE
 
